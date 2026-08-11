@@ -29,7 +29,3 @@ And use `github.io` as the Authorised domain.
 - `index.html` — the single-page site containing the app description,
   privacy policy, and terms of service.
 
-## Editing
-
-Before deploying, update the placeholder contact email inside `index.html`
-(`emryzekanem@gmail.com`) with a real contact address.
