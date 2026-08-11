@@ -32,4 +32,4 @@ And use `github.io` as the Authorised domain.
 ## Editing
 
 Before deploying, update the placeholder contact email inside `index.html`
-(`your-email@example.com`) with a real contact address.
+(`emryzekanem@gmail.com`) with a real contact address.
